@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World! 4");
             Console.WriteLine("7.fejezet");
+            Console.WriteLine("7.1. A C# nyelv alapjai");
         }
     }
 }
